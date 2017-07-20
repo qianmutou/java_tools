@@ -10,13 +10,13 @@ import java.io.Writer;
 import org.omg.CORBA.PUBLIC_MEMBER;
 
 public class Main {
-	public static String reg = "yc791022";
+	public static String reg = "name";
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		extract("C:\\Users\\Administrator\\Desktop\\√Õ¡“π≥’–»∫(617371595).txt", reg);
+		extract("C:\\Users\\Administrator\\Desktop\\xxx.txt", reg);
 	}
 
 	public static void extract(String filePath, String reg) {
